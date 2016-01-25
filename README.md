@@ -110,6 +110,12 @@ Must contain a README.md otherwise npm will throw an error
 
 ---
 
+### Link
+
+```
+npm link (may need to sudo)
+```
+
 ### Create user
 
 Before publishing to the NPM registry:
